@@ -1,0 +1,27 @@
+{
+  "name": "tp-me",
+  "version": "1.0.0",
+  "description": "tpme",
+  "main": "index.js",
+  "scripts": {
+    "test": "tpme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtor9/TP-ME.git"
+  },
+  "keywords": [
+    "tpme"
+  ],
+  "author": "moi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtor9/TP-ME/issues"
+  },
+  "homepage": "https://github.com/iamtor9/TP-ME#readme",
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
